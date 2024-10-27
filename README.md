@@ -18,3 +18,5 @@ The analysis uses a relational dataset with the following tables:
 - **Stocks**: Data on product stock levels across stores.
 - **Stores**: Information about each store, including location and contact details.
 - **Categories and Brands**: Metadata about product categories and brands.
+- 
+![Database Schema](images/Relationship.png)
